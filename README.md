@@ -50,10 +50,10 @@ These projects focus on building a strong foundation in Android development usin
 
 🚀 Key Features
 
-✨ Beginner-friendly projects
-✨ Clean and simple UI design
-✨ Covers core Android concepts
-✨ Easy to understand and implement
+✨ Beginner-friendly projects,
+ Clean and simple UI design,
+ Covers core Android concepts,
+ Easy to understand and implement
 
 ---
 

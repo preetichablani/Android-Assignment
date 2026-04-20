@@ -48,6 +48,15 @@ These projects focus on building a strong foundation in Android development usin
 
 ---
 
+
+🔹 Assignment 5: Alarm Clock App ⏰
+
+- Set alarm time
+- Basic alarm functionality
+- Simple UI for time selection
+
+---
+
 🚀 Key Features
 
 ✨ Beginner-friendly projects
